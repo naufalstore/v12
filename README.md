@@ -1,11 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-
+<img src="hthttps://github.com/Ramdaniofficial/v12/foto/menu.jpg" alt="RAMDANI BOTZ VERSI 16.0.0" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="RAMDANI BOTZ MULTI DEVICE" src="https://img.shields.io/badge/Ramdani Botz versi 12.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RAMDANI BOTZ VERSI 16.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
@@ -35,43 +34,63 @@
 ---
 
 ## Information
-> Ramdani botz v12 adalah bot WhatsApp yg memakai base ori dari [Ramdani Official](https://github.com/Ramdaniofficial/blob/main/README.md). Ramdani botz v12 is a bot whatsapp using a Baileys library.
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+# bahasa Indonesia
+> Ramdani Botz v12 adalah bot yang di ciptakan oleh Ramdani Official.
+> Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.
+# Language English
+> Ramdani Botz v12 is a bot created by Ramdani Official
+> If you find some kind of bug/error, please forgive me for a while
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-Ramdani botz](https://wa.me/6289512545999)
+* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
 
-# Instalasi
-## Heroku Buildpack
-```bash
- heroku/nodejs
- https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
- https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+## Intalasi
+## For termux
+
+```
+> apt update && apt upgrade
+> pkg install bash
+> pkg install git
+> pkg install nodejs
+> pkg install ffmpeg
+> pkg install imagemagick
+> pkg install libwebp
+> git clone https://github.com/Ramdaniofficial/v12
+> cd v12
+> git clone https://github.com/Ramdaniofficial/node_modules
+> npm start
 ```
 
-## For Windows/RDP
-```bash
-git clone https://github.com/Ramdaniofficial/v12.git
-cd v12
-npm install
-node main
+## Heroku buildpack
+
+```FFMPEG :```
+https://github.com/Ramdaniofficial/heroku-buildpack-ffmpeg-latest
+
+```WEBP :```
+https://github.com/Ramdaniofficial/heroku-buildpack-webp-binaries.git
+
+---------
+
+## For windows/RDP
+
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6)
+
 ```
-## For Termux
-```bash
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs git ffmpeg
-git clone https://github.com/Ramdaniofficial/v12.git
-cd v12
-npm install
-node main
+> git clone https://github.com/Ramdaniofficial/v12
+> cd v12
+> git clone https://github.com/Ramdaniofficial/node_modules
+> npm start
 ```
+
 
 ## Edit file
 - Change ownerNumber on [this section](https://github.com/Ramdaniofficial/av12/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
@@ -96,15 +115,20 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/ramdaniofficial)
+- [Saweria](https://saweria.co/Ramdaniofficial)
+- [Linktree](https://linktr.ee/Ramdaniofficial)
 - [Dana](089512545999)
 - [Ovo](089512545999)
 - [Gopay](089512545999)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/Loc6xVYLGnwHm9vuz6hZe7)
+- [Group 1](https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu)
 - [Group 2](https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq)
 - [Group 3](https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK)
+- [Group coding bersama](https://chat.whatsapp.com/FR0FmwpBEmQ3HuyF2SIdVQ)
+- [Group tes bot](https://chat.whatsapp.com/L8ucMoUQUTt3gKzSvpttbU)
+- [Group murid bot](https://chat.whatsapp.com/IyNVUbMxyoSG0Sw0oe6T62)
+- [Group saling subscribe](https://chat.whatsapp.com/Dx8VCkqvDSRD5yXXxQ3LK3)
 
 
 # Thanks to
