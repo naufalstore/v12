@@ -1,10 +1,10 @@
 <p align="center">
-<img src="hthttps://github.com/Ramdaniofficial/v12/foto/menu.jpg" alt="RAMDANI BOTZ VERSI 16.0.0" width="100"/>
-
+<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
 
 </p>
 <p align="center">
-<a href="#"><img title="RAMDANI BOTZ VERSI 16.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RAMDANI BOTZ VERSI 12.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 12.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
@@ -34,10 +34,10 @@
 ---
 
 ## Information
-# bahasa Indonesia
+## bahasa Indonesia
 > Ramdani Botz v12 adalah bot yang di ciptakan oleh Ramdani Official.
 > Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.
-# Language English
+## Language English
 > Ramdani Botz v12 is a bot created by Ramdani Official
 > If you find some kind of bug/error, please forgive me for a while
 
